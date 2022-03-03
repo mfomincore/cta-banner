@@ -40,7 +40,7 @@
     text-decoration: none;
     text-align: center;
     vertical-align: middle;
-    box-shadow: 0px 5px 5px #3469F2; 
+    box-shadow: 0px 3.33333px 6.66667px rgba(52, 105, 242, 0.48); 
     font-size: 13.3px;
     line-height: 45px;
     
@@ -58,11 +58,3 @@
     font-size: 14px;
 }
 
-/* @font-face { 
-    font-family: MuseoSansCyrl;
-    src: url('/fonts/museosanscyrl_100.otf') format("truetype"); 
-    font-style: normal; 
-    font-weight: normal; 
-
-}
-*/
